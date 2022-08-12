@@ -2933,7 +2933,7 @@ input, select, textarea {
 		/* Main */
 
 			.main .image.primary {
-				display: block;
+				display: contain;
 				margin: 0 0 4em 0;
 			}
 
