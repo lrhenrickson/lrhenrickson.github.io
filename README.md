@@ -1,1 +1,1 @@
-Mostly for HTML and CSS practice.
+For HTML and CSS practice.
