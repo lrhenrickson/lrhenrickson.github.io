@@ -2313,7 +2313,7 @@ input, select, textarea {
 /* Icons */
 
 	ul.icons {
-		cursor: default;
+		cursor: crosshair;
 		list-style: none;
 		padding-left: 0;
 	}
@@ -2700,7 +2700,7 @@ input, select, textarea {
 			background-color: #6f7577 !important;
 			box-shadow: none !important;
 			color: #fff !important;
-			cursor: default;
+			cursor: crosshair;
 			opacity: 0.25;
 		}
 
