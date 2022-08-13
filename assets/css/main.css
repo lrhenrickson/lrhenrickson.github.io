@@ -2076,7 +2076,7 @@ input, select, textarea {
 		input[type="radio"] + label {
 			text-decoration: none;
 			color: #6f7577;
-			cursor: pointer;
+			cursor: crosshair;
 			display: inline-block;
 			font-size: 1em;
 			font-weight: 400;
@@ -2579,8 +2579,9 @@ input, select, textarea {
 		border-radius: 0;
 		border: 0;
 		box-shadow: inset 0 0 0 2px #dddddd;
+		margin: 0 0.3em 0.3em 0;
 		color: #61686b !important;
-		cursor: pointer;
+		cursor: crosshair;
 		display: inline-block;
 		font-weight: 700;
 		height: 3em;
